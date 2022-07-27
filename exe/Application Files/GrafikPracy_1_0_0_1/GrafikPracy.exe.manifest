@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="GrafikPracy.exe" version="1.0.0.1" publicKeyToken="dd850e411d3b2d22" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="GrafikPracy" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="GrafikPracy.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opcje manifestu kontroli konta użytkownika
+          Jeśli chcesz zmienić poziom kontroli konta użytkownika systemu Windows, zastąp węzeł 
+          requestedExecutionLevel jednym z następujących.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Jeśli chcesz użyć wirtualizacji plików i rejestru do celów zgodności wstecznej, 
+         usuń węzeł requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GrafikPracy.exe" size="27616">
+      <assemblyIdentity name="GrafikPracy" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>zMMENTl2BNdqoWxXOgbnchOVFVppmc1UYVI/iGQepM8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="GrafikPracy.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-V0R1DI7\Jezol" issuerKeyHash="2ea365b0830515a40b5ffbfdae80fcee49451303" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>7ahMSsW5eiS1KEBLlmgmfwpf1Gsz2ryuM2DJuil0H7E=</DigestValue></Reference></SignedInfo><SignatureValue>gmYgW25Mt2gQ+rFQSR1P0Cs0H2mhelc/pyTqqQYoAEMSkxBvfK5uk7vQZ4Qlq0k43kvQ75zKIneOuYSSe9mDdzerJ4F/4KHmZR/idGoJMOGYtgmtRK3EG1r6PWUylaE1vCx+c4qYN/+ekOHClo6cYROuDGYzYBbH+rt59sqHVHY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rhm0kyO4mPEH395scxIOHfHl7hvQkIp3CMkfWlvYP2gcI0tcqeMzqMD/RWj1gVbBOoBxwVHI5rYf1s/rrjOjra1MqZ5azN841/kg15HMQbY2GhGIObNlmC7EUqFCIhoG8aHl//J4y7/xxauItDdMsBO2863NUz4ipHv9m5Ma48E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b11f7429bac96033aebcda336bd45f0a7f2668964b4028b5247ab9c54a4ca8ed" Description="" Url=""><as:assemblyIdentity name="GrafikPracy.exe" version="1.0.0.1" publicKeyToken="dd850e411d3b2d22" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-V0R1DI7\Jezol</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>6ZehM0LQZp/KnH28v09PoZkJWGuM69gKmO5QRbxdRG4=</DigestValue></Reference></SignedInfo><SignatureValue>Asa2FjNbpOdOz1TAdM8lxBlANyW6rLAGYNLa/brtcxwmjSSGpdfKz+kN+r0jM8J92qu4k7pZCM9hYofFh755YjxFGDg76SaTrTdRAvNC0fddQTb+fa/7UT//G7nk/CFgZs8hGy/GX115TpxkgTzi2Ifc/z+9DAV6WNN6zkgd5gY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rhm0kyO4mPEH395scxIOHfHl7hvQkIp3CMkfWlvYP2gcI0tcqeMzqMD/RWj1gVbBOoBxwVHI5rYf1s/rrjOjra1MqZ5azN841/kg15HMQbY2GhGIObNlmC7EUqFCIhoG8aHl//J4y7/xxauItDdMsBO2863NUz4ipHv9m5Ma48E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQWvlMv1f/ko9JmRIe1CpB1jANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFYAMABSADEARABJADcAXABKAGUAegBvAGwwHhcNMjEwNjEwMDcwNzA1WhcNMjIwNjEwMTMwNzA1WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFYAMABSADEARABJADcAXABKAGUAegBvAGwwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAK4ZtJMjuJjxB9/ebHMSDh3x5e4b0JCKdwjJH1pb2D9oHCNLXKnjM6jA/0Vo9YFWwTqAccFRyOa2H9bP664zo62tTKmeWszfONf5INeRzEG2NhoRiDmzZZguxFKhQiIaBvGh5f/yeMu/8cWriLQ3TLATtvOtzVM+IqR7/ZuTGuPBAgMBAAEwDQYJKoZIhvcNAQELBQADgYEADBaNVcBfa8OKabUjTMiOwlQhs3hFkQeOGyjAYt/NuL98GSQS+Q11qGvZFA/rUrkfkRQCHFJv1iQXIQKN2PlEuiwfXQREFpBeDwZKk0XB1TawU6k1OqHBbmgvMRtMoi2M+QrtYLzZbDMjOZYgVSuSR3Cnxe+0m6mJJjiLAfpV85o=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

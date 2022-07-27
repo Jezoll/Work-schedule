@@ -1,0 +1,46 @@
+C:\Users\Mak\Desktop\GrafikPracy\GrafikPracy\bin\Debug\GrafikPracy.exe.config
+C:\Users\Mak\Desktop\GrafikPracy\GrafikPracy\bin\Debug\GrafikPracy.exe
+C:\Users\Mak\Desktop\GrafikPracy\GrafikPracy\bin\Debug\GrafikPracy.pdb
+C:\Users\Mak\Desktop\GrafikPracy\GrafikPracy\obj\Debug\GrafikPracy.csprojAssemblyReference.cache
+C:\Users\Mak\Desktop\GrafikPracy\GrafikPracy\obj\Debug\GrafikPracy.Form1.resources
+C:\Users\Mak\Desktop\GrafikPracy\GrafikPracy\obj\Debug\GrafikPracy.Properties.Resources.resources
+C:\Users\Mak\Desktop\GrafikPracy\GrafikPracy\obj\Debug\GrafikPracy.csproj.GenerateResource.cache
+C:\Users\Mak\Desktop\GrafikPracy\GrafikPracy\obj\Debug\GrafikPracy.csproj.CoreCompileInputs.cache
+C:\Users\Mak\Desktop\GrafikPracy\GrafikPracy\obj\Debug\GrafikPracy.exe
+C:\Users\Mak\Desktop\GrafikPracy\GrafikPracy\obj\Debug\GrafikPracy.pdb
+C:\Users\Jezol\Desktop\mat\bin\Debug\GrafikPracy.exe.config
+C:\Users\Jezol\Desktop\mat\bin\Debug\GrafikPracy.exe
+C:\Users\Jezol\Desktop\mat\bin\Debug\GrafikPracy.pdb
+C:\Users\Jezol\Desktop\mat\obj\Debug\GrafikPracy.csprojAssemblyReference.cache
+C:\Users\Jezol\Desktop\mat\obj\Debug\GrafikPracy.Form1.resources
+C:\Users\Jezol\Desktop\mat\obj\Debug\GrafikPracy.Properties.Resources.resources
+C:\Users\Jezol\Desktop\mat\obj\Debug\GrafikPracy.csproj.GenerateResource.cache
+C:\Users\Jezol\Desktop\mat\obj\Debug\GrafikPracy.csproj.CoreCompileInputs.cache
+C:\Users\Jezol\Desktop\mat\obj\Debug\GrafikPracy.exe
+C:\Users\Jezol\Desktop\mat\obj\Debug\GrafikPracy.pdb
+C:\Users\Jezol\Desktop\mat\obj\Debug\GrafikPracy.Dodawanie.resources
+C:\Users\Jezol\Desktop\mat\obj\Debug\GrafikPracy.Kal.resources
+C:\Users\Jezol\Desktop\mat\obj\Debug\GrafikPracy.adddnirobocze.resources
+C:\Users\Jezol\Desktop\mat\obj\Debug\GrafikPracy.rozliczaj.resources
+C:\Users\Jezol\Desktop\mat\bin\Debug\GrafikPracy.exe.manifest
+C:\Users\Jezol\Desktop\mat\bin\Debug\GrafikPracy.application
+C:\Users\Jezol\Desktop\mat\obj\Debug\GrafikPracy.exe.manifest
+C:\Users\Jezol\Desktop\mat\obj\Debug\GrafikPracy.application
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\bin\Debug\GrafikPracy.exe.config
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\bin\Debug\GrafikPracy.exe.manifest
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\bin\Debug\GrafikPracy.application
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\bin\Debug\GrafikPracy.exe
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\bin\Debug\GrafikPracy.pdb
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\obj\Debug\GrafikPracy.csprojAssemblyReference.cache
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\obj\Debug\GrafikPracy.adddnirobocze.resources
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\obj\Debug\GrafikPracy.Dodawanie.resources
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\obj\Debug\GrafikPracy.Form1.resources
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\obj\Debug\GrafikPracy.Kal.resources
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\obj\Debug\GrafikPracy.Properties.Resources.resources
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\obj\Debug\GrafikPracy.rozliczaj.resources
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\obj\Debug\GrafikPracy.csproj.GenerateResource.cache
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\obj\Debug\GrafikPracy.csproj.CoreCompileInputs.cache
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\obj\Debug\GrafikPracy.exe.manifest
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\obj\Debug\GrafikPracy.application
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\obj\Debug\GrafikPracy.exe
+C:\Users\Jezol\Desktop\ZAD2 DAWID JĘDRZEJCZAK\obj\Debug\GrafikPracy.pdb
